@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "2_terminal_hacker.data.unityweb",
+"asmCodeUrl": "2_terminal_hacker.asm.code.unityweb",
+"asmMemoryUrl": "2_terminal_hacker.asm.memory.unityweb",
+"asmFrameworkUrl": "2_terminal_hacker.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
