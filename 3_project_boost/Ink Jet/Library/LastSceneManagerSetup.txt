@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/inkjet.unity
+  isLoaded: 1
+  isActive: 1
