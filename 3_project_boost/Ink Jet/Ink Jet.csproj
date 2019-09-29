@@ -79,7 +79,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Squid.cs" />
+    <Compile Include="Assets\Scripts\Oscillator.cs" />
+    <Compile Include="Assets\Scripts\Squid.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />
